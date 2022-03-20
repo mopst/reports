@@ -10,7 +10,9 @@ It was funded by the EU Interreg France (Channel) England Programme and implemen
 
 North Devon Biosphere Reserve, Brighton and Lewes Downs Biosphere Reserve, Réserve de Biosphère Iles et Mer d’Iroise and Réserve de Biosphère Marais Audomarois.
 
-[Link to the the full report (PDF, 3.89 MB)](https://github.com/mopst/reports/blob/main/BCHT%20GIS%20modelling%20report%20method%20and%20results%202Dec2021_018.pdf)
+Short summary (2.5 pages) [English, PDF, 950KB] (https://github.com/mopst/reports/blob/main/2-pager%20MOPST%202Dec2021v5.pdf)
+
+Link to the the full report [English, PDF, 3.9MB](https://github.com/mopst/reports/blob/main/BCHT%20GIS%20modelling%20report%20method%20and%20results%202Dec2021_018.pdf) [French, PDF, 3.4MB] (https://github.com/mopst/reports/blob/main/Cartographie%20SIG%20et%20mod%C3%A9lisation%20FR%20version.pdf). 
 
 *Suggested citation*
 
